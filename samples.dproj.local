@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/24 13:15:55.000.080,C:\Users\Luis\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\LUIS\sample_horse\samples.dproj</Transaction>
+    <Transaction>2023/08/24 13:32:18.277,=C:\LUIS\sample_horse\Unit1.pas</Transaction>
+    <Transaction>2023/08/24 13:36:25.452,C:\LUIS\sample_horse\src\services\Services.Bairro.dfm=C:\LUIS\sample_horse\Unit1.dfm</Transaction>
+    <Transaction>2023/08/24 13:36:25.452,C:\LUIS\sample_horse\src\services\Services.Bairro.pas=C:\LUIS\sample_horse\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

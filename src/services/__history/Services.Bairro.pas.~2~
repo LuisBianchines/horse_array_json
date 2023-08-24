@@ -1,0 +1,16 @@
+unit Services.Bairro;
+
+interface
+
+uses
+  System.SysUtils, System.Classes;
+
+type
+  TServiceBairro = class(TDataModule)
+  end;
+
+implementation
+
+{$R *.dfm}
+
+end.
